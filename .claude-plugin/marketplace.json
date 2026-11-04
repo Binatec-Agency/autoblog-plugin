@@ -1,0 +1,12 @@
+{
+  "name": "binatec",
+  "description": "Plugins from Binatec Agency",
+  "owner": { "name": "Binatec Agency", "email": "admin@binatecagency.com" },
+  "plugins": [
+    {
+      "name": "autoblog",
+      "source": "./",
+      "description": "Researched, sourced articles for your website on a schedule (licence required)"
+    }
+  ]
+}

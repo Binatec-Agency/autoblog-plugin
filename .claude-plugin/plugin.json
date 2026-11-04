@@ -1,0 +1,10 @@
+{
+  "name": "autoblog",
+  "displayName": "Binatec Autoblog",
+  "version": "0.1.0",
+  "description": "One researched, sourced article a day for your website (WordPress incl. Elementor, GitHub-based sites, headless CMSs or a custom site via webhook): live question discovery, quality gates, fact checks, original charts and screenshots. Runs in Claude Code on your own Claude plan; needs a Binatec Autoblog licence.",
+  "author": { "name": "Binatec Agency", "url": "https://www.binatecagency.com" },
+  "homepage": "https://www.binatecagency.com/products/autoblog",
+  "repository": "https://github.com/Binatec-Agency/autoblog-plugin",
+  "keywords": ["blog", "seo", "wordpress", "elementor", "headless-cms", "content"]
+}
